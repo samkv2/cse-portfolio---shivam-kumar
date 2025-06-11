@@ -1,14 +1,31 @@
-# Run and deploy your AI Studio app
+# Shivam Kumar's Portfolio
 
-This contains everything you need to run your app locally.
+A modern, responsive portfolio website built with React and Vite.
 
-## Run Locally
+## Features
 
-**Prerequisites:**  Node.js
+- 🎨 Modern and clean design
+- 🌓 Light/Dark theme support
+- 📱 Fully responsive
+- ⚡ Fast and optimized performance
+- 🎯 Interactive UI elements
+- 📝 Dynamic content sections
 
+## Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- React
+- TypeScript
+- Vite
+- CSS3 with modern features
+- GitHub Pages for hosting
+
+## Live Demo
+
+Visit the live portfolio at: [https://samkv2.github.io/cse-portfolio---shivam-kumar/](https://samkv2.github.io/cse-portfolio---shivam-kumar/)
+
+## Local Development
+
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Run development server: `npm run dev`
+4. Build for production: `npm run build`
